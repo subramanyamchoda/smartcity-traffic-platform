@@ -1,7 +1,7 @@
 # 🚦 Smart Traffic Ecosystem (Final Year Project)
 
 🔗 **Feature 1 – IoT-Based Traffic Control (Live Demo):** [Add Feature 1 Link Here]  
-🔗 **Feature 2 – AI Traffic Analytics Platform (Live Demo):** [Add Feature 2 Link Here]  
+🔗 **Feature 2 – AI Traffic Analytics Platform (Live Demo):**  [Live Demo](https://smartcity-traffic-platform.vercel.app/)
 
 🚦 **Feature 1:** IoT-Based Smart Traffic Signal Control using ESP32 & Cameras  
 🤖 **Feature 2:** AI-Powered Traffic Analytics & Prediction System  
