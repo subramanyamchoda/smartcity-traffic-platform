@@ -206,14 +206,14 @@ cd smart-traffic-ecosystem
 
 ---
 
-## 📬 Connect With Me
-## LinkedIn: [Add Your LinkedIn Link]
-## GitHub: [Add Your GitHub Link]
+- 📬 Connect With Me
+- LinkedIn: [Add Your LinkedIn Link]
+- GitHub: [Add Your GitHub Link]
 ⭐ Final Note
 
 ----
 
-## This project combines:
+# This project combines:
 
 # 🚦 IoT-Based Traffic Control
 # 🤖 AI-Based Traffic Analytics
