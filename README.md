@@ -139,6 +139,8 @@ This is my **Final Year Project**, built with two powerful features:
 git clone https://github.com/your-username/smart-traffic-ecosystem.git
 cd smart-traffic-ecosystem
 
+```
+##
 Frontend Setup (Next.js)
 cd frontend
 npm install
