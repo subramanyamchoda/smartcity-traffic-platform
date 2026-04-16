@@ -206,9 +206,10 @@ cd smart-traffic-ecosystem
 
 ---
 
-- 📬 Connect With Me
-- LinkedIn: [Add Your LinkedIn Link]
-- GitHub: [Add Your GitHub Link]
+## 📬 Connect With Me
+
+- LinkedIn: [Subramanyam Choda](https://www.linkedin.com/in/subramanyamchoda)
+- GitHub: [suburamanyachdoa](https://github.com/subramanyamchoda)
 ⭐ Final Note
 
 ----
