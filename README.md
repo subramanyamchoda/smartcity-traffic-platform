@@ -213,9 +213,9 @@ cd smart-traffic-ecosystem
 
 ----
 
-# This project combines:
+## This project combines:
 
-# 🚦 IoT-Based Traffic Control
-# 🤖 AI-Based Traffic Analytics
+## 🚦 IoT-Based Traffic Control
+## 🤖 AI-Based Traffic Analytics
 
 
