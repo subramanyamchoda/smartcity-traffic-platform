@@ -156,10 +156,10 @@ cd smart-traffic-ecosystem
 --- 
 
 ## 🚀 Deployment
-# 🌐 Frontend
+## 🌐 Frontend
 - Vercel / Netlify
 - npm run build
-# ⚙️ Backend
+## ⚙️ Backend
 - Render / Railway / AWS
 - 📍 Implementation
 - 📍 Ongole Smart City
@@ -207,8 +207,8 @@ cd smart-traffic-ecosystem
 ---
 
 ## 📬 Connect With Me
-# LinkedIn: [Add Your LinkedIn Link]
-# GitHub: [Add Your GitHub Link]
+## LinkedIn: [Add Your LinkedIn Link]
+## GitHub: [Add Your GitHub Link]
 ⭐ Final Note
 
 ----
