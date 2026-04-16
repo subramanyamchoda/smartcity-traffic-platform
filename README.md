@@ -140,77 +140,82 @@ git clone https://github.com/your-username/smart-traffic-ecosystem.git
 cd smart-traffic-ecosystem
 
 ```
-##
-Frontend Setup (Next.js)
-cd frontend
-npm install
-npm run dev
-🔑 Environment Variables
+---
+ ## Frontend Setup (Next.js)
+- cd frontend
+- npm install
+- npm run dev
+---
 
-Create a .env file:
+## 🔑 Environment Variables
+- Create a .env file:
+- TOMTOM_API_KEY=your_key_here
+- OPENAI_API_KEY=your_key_here
+- GROK_API_KEY=your_key_here
 
-TOMTOM_API_KEY=your_key_here
-OPENAI_API_KEY=your_key_here
-GROK_API_KEY=your_key_here
-🚀 Deployment
-🌐 Frontend
-Vercel / Netlify
-npm run build
-⚙️ Backend
-Render / Railway / AWS
-📍 Implementation
+--- 
 
-📍 Ongole Smart City
-Prakasam District, Andhra Pradesh
+## 🚀 Deployment
+# 🌐 Frontend
+- Vercel / Netlify
+- npm run build
+# ⚙️ Backend
+- Render / Railway / AWS
+- 📍 Implementation
+- 📍 Ongole Smart City
+- Prakasam District, Andhra Pradesh
+- 
+---
 
-🚀 Key Highlights
-✅ Combines IoT + AI in one system
-✅ Real-time + predictive analytics
-✅ Smart traffic automation
-✅ Scalable smart city solution
-📚 Learning Outcomes
-Full Stack Development
-IoT Integration
-AI & API Integration
-Data Visualization
-Real-world Problem Solving
-🔮 Future Scope
-AI-based signal automation
-Full IoT integration
-Cloud deployment
-Mobile application
-🤝 Contribution
+## 🚀 Key Highlights
+- ✅ Combines IoT + AI in one system
+- ✅ Real-time + predictive analytics
+- ✅ Smart traffic automation
+- ✅ Scalable smart city solution
+- 📚 Learning Outcomes
 
-Contributions are welcome!
-Feel free to fork and contribute.
+----
 
-👨‍💻 Developed By
+- Full Stack Development
+- IoT Integration
+- AI & API Integration
+- Data Visualization
+- Real-world Problem Solving
 
-Subbu
-Final Year Engineering Student
-Interested in AI | IoT | Full Stack Development | Smart Systems 🚀
+  ---
+  
+## 🔮 Future Scope
+- AI-based signal automation
+- Full IoT integration
+- Cloud deployment
+- Mobile application
+---
 
-📬 Connect With Me
-LinkedIn: [Add Your LinkedIn Link]
-GitHub: [Add Your GitHub Link]
-⭐ Final Note
+## 🤝 Contribution
 
-This project combines:
-
-🚦 IoT-Based Traffic Control
-🤖 AI-Based Traffic Analytics
-
-➡️ Building a complete Smart Traffic Ecosystem for future cities
-
-🔥 Tags
-
-AI IoT SmartCity TrafficManagement NextJS Django ESP32 Analytics
-
+- Contributions are welcome!
+- Feel free to fork and contribute.
 
 ---
 
-This version is:
-✅ Clean & professional  
-✅ Properly formatted (no broken sections)  
-✅ Strong for recruiters  
-✅ Shows both features clearly at top  
+## 👨‍💻 Developed By
+
+- Subbu
+- Final Year Engineering Student
+- Interested in AI | IoT | Full Stack Development | Smart Systems 🚀
+
+---
+
+## 📬 Connect With Me
+# LinkedIn: [Add Your LinkedIn Link]
+# GitHub: [Add Your GitHub Link]
+⭐ Final Note
+
+----
+
+## This project combines:
+
+# 🚦 IoT-Based Traffic Control
+# 🤖 AI-Based Traffic Analytics
+
+
